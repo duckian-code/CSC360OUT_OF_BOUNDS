@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawler", "DungeonCrawler\DungeonCrawler.csproj", "{C8C8266B-835B-4916-82F2-2BAE9FC5DD91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSC360OUT_OF_BOUNDS", "CSC360OUT_OF_BOUNDS\CSC360OUT_OF_BOUNDS.csproj", "{C8C8266B-835B-4916-82F2-2BAE9FC5DD91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

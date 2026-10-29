@@ -1,4 +1,4 @@
-﻿namespace DungeonCrawler;
+﻿namespace CSC360OUT_OF_BOUNDS;
 
 class Program
 {
